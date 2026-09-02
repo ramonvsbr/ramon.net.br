@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>//localhost:1313/about/</loc>
+            <lastmod>2026-09-02T09:02:14-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/</loc>
+            <lastmod>2026-09-02T09:02:14-03:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="//localhost:1313/es/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="//localhost:1313/ja/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="//localhost:1313/zh-hans/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="//localhost:1313/de/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt-br"
+              href="//localhost:1313/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/posts/meu-primeiro-post/</loc>
+            <lastmod>2026-09-02T09:02:08-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/posts/</loc>
+            <lastmod>2026-09-02T09:02:08-03:00</lastmod>
+          </url>
+    
+  
+    
+  
+</urlset>
