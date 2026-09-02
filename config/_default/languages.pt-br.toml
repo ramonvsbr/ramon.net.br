@@ -8,14 +8,12 @@ copyright = "&copy; 2026 Ramon Vieira Souza"
 
 [params]
   dateFormat = "2 January 2006"
-
-  mainSections = ["blog"]
   description = "Página para projetos pessoais."
 
 [params.author]
   name = "Ramon Vieira Souza"
   image = "img/perfil.jpg"
-  headline = "Sua frase de efeito aqui!"
+  headline = "Allons-y!"
   bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
   links = [
     { github = "https://github.com/ramonvsbr" },

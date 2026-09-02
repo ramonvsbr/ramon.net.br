@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Blog"
-  pageRef = "blog"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
@@ -23,21 +23,6 @@
 [[main]]
   identifier = "search"
   weight = 90
-  [main.params]
-    action = "search"
-
-[[main]]
-  name = "GitHub"
-  url = "https://github.com/jpanther/congo"
-  weight = 40
-  [main.params]
-    icon = "github"
-    showName = false
-    target = "_blank"
-
-[[main]]
-  identifier = "search"
-  weight = 99
   [main.params]
     action = "search"
 

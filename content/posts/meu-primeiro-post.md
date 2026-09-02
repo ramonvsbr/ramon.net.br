@@ -1,5 +1,5 @@
 +++
-date = '2026-09-02T09:02:08-03:00'
-draft = true
+date = '2025-01-01'
+draft = false
 title = 'Meu Primeiro Post'
 +++
