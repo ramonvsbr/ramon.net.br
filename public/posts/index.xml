@@ -12,13 +12,13 @@
 			<copyright>&amp;copy; 2026 Ramon Vieira Souza</copyright>
 		
 		
-			<lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Meu Primeiro Post</title>
+				<title>Que haja luzes!</title>
 				<link>//localhost:1313/posts/meu-primeiro-post/</link>
-				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>//localhost:1313/posts/meu-primeiro-post/</guid>
 				<description></description>
 			</item>

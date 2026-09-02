@@ -1,5 +1,6 @@
 +++
-date = '2025-01-01'
+date = '2026-09-02'
 draft = false
-title = 'Meu Primeiro Post'
+title = 'Que haja luzes!'
 +++
+Com domínio próprio e feito em HUGO, blog está criado.
