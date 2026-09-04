@@ -21,6 +21,11 @@
   weight = 20
 
 [[main]]
+  name = "AgTech"
+  pageRef = "agtech"
+  weight = 30
+
+[[main]]
   identifier = "search"
   weight = 90
   [main.params]
