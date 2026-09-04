@@ -3,7 +3,7 @@ label = "Português (Brasil)"
 direction = "ltr"
 weight = 1
 
-title = "Labmaker de Ramon"
+title = "Labmaker"
 copyright = "&copy; 2026 Ramon Vieira Souza"
 
 [params]
