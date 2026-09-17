@@ -8,8 +8,8 @@
 mainSections = ["posts"]
 
 colorScheme = "avocado"
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
