@@ -1,0 +1,101 @@
+backend:
+  name: github
+  repo: ramonvsbr/ramon.net.br        # ex.: ramonvsbr/ramon.net.br
+  branch: main
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: posts
+    label: Blog
+    folder: content/posts
+    create: true
+    fields:
+      - { name: title, label: Título, widget: string }
+      - { name: date, label: Data, widget: datetime }
+      - { name: summary, label: Resumo, widget: text, required: false }
+      - { name: tags, label: Tags, widget: list, required: false }
+      - { name: draft, label: Rascunho, widget: boolean, default: false }
+      - { name: body, label: Conteúdo, widget: markdown }
+
+  - name: ferramentas
+    label: Ferramentas
+    folder: content/ferramentas
+    path: '{{slug}}/index'
+    create: true
+    fields:
+      - { name: title, label: Nome, widget: string }
+      - { name: summary, label: Resumo, widget: text }
+      - { name: externalUrl, label: Link do webapp, widget: string }
+      - { name: icon, label: Ícone, widget: string, required: false, hint: 'wallet, calculator, wrench, code, globe' }
+      - { name: weight, label: Ordem (menor aparece primeiro), widget: number, value_type: int, required: false }
+      - { name: draft, label: Ocultar (rascunho), widget: boolean, default: false }
+      - name: build
+        widget: hidden
+        default: { render: false, list: always, publishResources: false }
+
+  - name: agtech
+    label: AgTech
+    folder: content/agtech
+    path: '{{slug}}/index'
+    create: true
+    fields:
+      - { name: title, label: Empresa, widget: string }
+      - { name: summary, label: Resumo, widget: text }
+      - { name: externalUrl, label: Site, widget: string }
+      - { name: icon, label: Ícone, widget: string, required: false, hint: 'wallet, calculator, wrench, code, globe' }
+      - { name: weight, label: Ordem (menor aparece primeiro), widget: number, value_type: int, required: false }
+      - { name: draft, label: Ocultar (rascunho), widget: boolean, default: false }
+      - name: build
+        widget: hidden
+        default: { render: false, list: always, publishResources: false }
+
+  - name: paginas
+    label: Páginas fixas
+    files:
+      - name: agtech_index
+        label: Página AgTech
+        file: content/agtech/_index.md
+        fields:
+          - { name: title, label: Título, widget: string }
+          - { name: description, label: Descrição, widget: text, required: false }
+          - name: cascade
+            label: Opções de exibição
+            widget: object
+            collapsed: true
+            fields:
+              - { name: showDate, label: Mostrar data, widget: boolean, default: false }
+              - { name: showReadingTime, label: Tempo de leitura, widget: boolean, default: false }
+              - { name: showWordCount, label: Contagem de palavras, widget: boolean, default: false }
+              - { name: showAuthor, label: Autor, widget: boolean, default: false }
+              - { name: showEdit, label: Link de edição, widget: boolean, default: false }
+              - { name: showSummary, label: Mostrar resumo, widget: boolean, default: true }
+
+      # Confira o _index.md de ferramentas: se o cascade for diferente, ajuste os valores.
+      - name: ferramentas_index
+        label: Página Ferramentas
+        file: content/ferramentas/_index.md
+        fields:
+          - { name: title, label: Título, widget: string }
+          - { name: description, label: Descrição, widget: text, required: false }
+          - name: cascade
+            label: Opções de exibição
+            widget: object
+            collapsed: true
+            fields:
+              - { name: showDate, label: Mostrar data, widget: boolean, default: false }
+              - { name: showReadingTime, label: Tempo de leitura, widget: boolean, default: false }
+              - { name: showWordCount, label: Contagem de palavras, widget: boolean, default: false }
+              - { name: showAuthor, label: Autor, widget: boolean, default: false }
+              - { name: showEdit, label: Link de edição, widget: boolean, default: false }
+              - { name: showSummary, label: Mostrar resumo, widget: boolean, default: true }
+
+      - name: sobre
+        label: Sobre
+        file: content/about.md
+        format: toml-frontmatter
+        fields:
+          - { name: title, label: Título, widget: string }
+          - { name: draft, label: Rascunho (desmarque para publicar), widget: boolean, default: true }
+          - { name: body, label: Texto, widget: markdown, required: false }
