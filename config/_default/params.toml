@@ -35,9 +35,9 @@ fingerprintAlgorithm = "sha256"
 [homepage]
   layout = "profile" # ou "page", "custom"
   homepageImage = ""
-  showRecent = true
+  showRecent = false
   showRecentItems = 5
-  showMoreLink = true
+  showMoreLink = false
   showMoreLinkDest = "/posts"
 
 [article]
