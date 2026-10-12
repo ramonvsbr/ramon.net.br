@@ -1,6 +1,6 @@
-## 🚀 Blog Pessoal
+## 🚀 Página Pessoal
 
-Um blog pessoal construído com o gerador de sites estáticos [Hugo](https://gohugo.io/). Anotações de estudo e projetos pessoais.
+Costruído com o gerador de sites estáticos [Hugo](https://gohugo.io/).
 
 ---
 
