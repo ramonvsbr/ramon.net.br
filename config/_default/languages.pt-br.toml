@@ -8,7 +8,7 @@ copyright = "&copy; 2026 Ramon Vieira Souza"
 
 [params]
   dateFormat = "2 January 2006"
-  description = "Página para projetos pessoais."
+  description = "Projetos e informações pessoais."
 
 [params.author]
   name = "Ramon Vieira Souza"
@@ -19,6 +19,7 @@ copyright = "&copy; 2026 Ramon Vieira Souza"
 - 🎓 Graduando em Agronomia (**IFSertãoPE**)
 
 🌱 tecnologia aplicada · sustentabilidade · reaproveitamento de resíduos/biogás · inovação no semiárido
+  &nbsp;
 """
   bio = "Técnico em Agropecuária e graduando em Agronomia. Atuação foco em tecnologia aplicada, sustentabilidade, resíduo/biogás e inovação no Semiárido."
   links = [
