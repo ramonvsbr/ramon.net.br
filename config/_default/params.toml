@@ -8,7 +8,7 @@
 mainSections = ["posts"]
 
 colorScheme = "avocado"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
