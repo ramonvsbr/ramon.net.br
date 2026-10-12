@@ -1,8 +1,10 @@
 ---
-title: "Capridata"
-summary: "Empresa a serviço da ovinocaprinocultora. Consultoria, assistência técnica e tecnologia."
-externalUrl: "https://safrural.ramon.net.br"
-icon: "wallet" # Opções comuns: "wallet", "calculator", "wrench", "code", "globe"
+title: Capridata
+summary: Empresa a serviço da ovinocaprinocultora. Consultoria, assistência técnica e tecnologia.
+externalUrl: https://capridata.com.br
+icon: wallet
+weight: null
+draft: false
 build:
   render: false
   list: always
