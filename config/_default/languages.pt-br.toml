@@ -14,9 +14,12 @@ copyright = "&copy; 2026 Ramon Vieira Souza"
   name = "Ramon Vieira Souza"
   image = "img/perfil.jpg"
   headline = """
-Técnico em Agropecuária (**IFBaiano**) e graduando em Agronomia (**IFSertãoPE**).
+- 🎓 Técnico em Agropecuária (**IFBaiano**)
+- 🎓 Graduando em Agronomia (**IFSertãoPE**)
 
-Atuo na interface entre **Agronomia** e **Zootecnia de Precisão**, com foco em tecnologia aplicada, sustentabilidade, reaproveitamento de resíduos e biogás, e inovação inclusiva no Semiárido.
+🌱 **Foco:** tecnologia aplicada · sustentabilidade · reaproveitamento de resíduos e biogás · inovação inclusiva no Semiárido
+
+📚 [Lattes](https://lattes.cnpq.br/1220536579812205)
 """
   bio = "Técnico em Agropecuária e graduando em Agronomia. Atuo na interface entre Agronomia e Zootecnia de Precisão, com foco em tecnologia aplicada, sustentabilidade, biogás e inovação inclusiva no Semiárido."
   links = [
