@@ -13,9 +13,14 @@ copyright = "&copy; 2026 Ramon Vieira Souza"
 [params.author]
   name = "Ramon Vieira Souza"
   image = "img/perfil.jpg"
-  headline = "Allons-y!"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  headline = """
+Técnico em Agropecuária (**IFBaiano**) e graduando em Agronomia (**IFSertãoPE**).
+
+Atuo na interface entre **Agronomia** e **Zootecnia de Precisão**, com foco em tecnologia aplicada, sustentabilidade, reaproveitamento de resíduos e biogás, e inovação inclusiva no Semiárido.
+"""
+  bio = "Técnico em Agropecuária e graduando em Agronomia. Atuo na interface entre Agronomia e Zootecnia de Precisão, com foco em tecnologia aplicada, sustentabilidade, biogás e inovação inclusiva no Semiárido."
   links = [
     { github = "https://github.com/ramonvsbr" },
     { linkedin = "https://linkedin.com/in/ramonvsouza" },
+    { lattes = "http://lattes.cnpq.br/1220536579812205" },
   ]
