@@ -9,7 +9,9 @@ tags:
 draft: false
 ---
 
-Filmes
+# Filmes
+<br>
+
 | Drama | Sci-fi | Humor | Terror |
 |-------|-------|-------|--------|
 | Bacurau | O Homem do Futuro ❤️        |  Lisbela e o Prisioneiro     |
@@ -21,7 +23,9 @@ Filmes
 |Todas as Razões para Esquecer |
 
 
-Série
+# Séries
+<br>
+
 | Drama | Humor | Terror |
 |-------|-------|--------|
 | Sessão de Terapia | A Grande Família|        |
@@ -31,7 +35,9 @@ Série
 | Justiça |
 | Carcereiros |
 
-Animações
+# Animações
+<br>
+
 | Drama | Humor | Terror | Educacional |
 |-------|-------|--------|------|
 | [Os anjos do meio da praça](https://www.youtube.com/watch?v=cs5C5MdAIuM)  ❤️ |   O Irmão do Jorel    |        | [As Aventuras de Tita](https://www.youtube.com/watch?v=W-Kd-O7l4Ww&list=PLi4Rv0jW0kUv_sUWlcEzxI8y0wpuBHPkj)
