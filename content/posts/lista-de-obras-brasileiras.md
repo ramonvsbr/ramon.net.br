@@ -14,10 +14,11 @@ Filmes
 |-------|-------|-------|--------|
 | Bacurau | O Homem do Futuro*        |  Lisbela e o Prisioneiro     |
 | Tropa de Elite 1/2      |       |  O Auto da Compadecida      |
-| Estômago 1     |       |  O Último Virgem      |
+| Estômago 1     |       |        |
 | 2 Filhos de Francisco |     |      |
 | Casa Grande |
 | Cidade de Deus |
+|Todas as Razões para Esquecer |
 
 
 Série
