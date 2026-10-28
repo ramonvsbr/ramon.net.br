@@ -34,6 +34,6 @@ Série
 Animações
 | Drama | Humor | Terror |
 |-------|-------|--------|
-|       |       |        |
+| [Os anjos do meio da praça](https://www.youtube.com/watch?v=cs5C5MdAIuM)      |   O Irmão do Jorel    |        |
 |       |       |        |
 |       |       |        |
