@@ -38,6 +38,12 @@ draft: false
 # Animações
 <br>
 
-| Drama | Humor | Terror |  Romance | Educacional |
-|-------|-------|--------|------|----|
-| [Os anjos do meio da praça](https://www.youtube.com/watch?v=cs5C5MdAIuM)  ❤️ |   O Irmão do Jorel    |       |      | [As Aventuras de Tita](https://www.youtube.com/watch?v=W-Kd-O7l4Ww&list=PLi4Rv0jW0kUv_sUWlcEzxI8y0wpuBHPkj)
+| Drama | Humor | Terror |  Romance | Educacional | Infantil |
+|-------|-------|--------|------|----|-----|
+| [Os anjos do meio da praça](https://www.youtube.com/watch?v=cs5C5MdAIuM)  ❤️ |   O Irmão do Jorel    |       |      | [As Aventuras de Tita](https://www.youtube.com/watch?v=W-Kd-O7l4Ww&list=PLi4Rv0jW0kUv_sUWlcEzxI8y0wpuBHPkj) | Meu Amigãozão
+|     |   |     |     |      | Historietas Assombradas |
+|     |   |     |     |      | Peixonauta |
+|     |   |     |     |      | Tromba Trem |
+|     |   |     |     |      | Os Under-Undergrounds |
+|     |   |     |     |      | Zica e Os Camaleões |
+|     |   |     |     |      | Esse é o bicho |
