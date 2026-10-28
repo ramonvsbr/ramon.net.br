@@ -1,0 +1,12 @@
+/* Faz o conteúdo dos posts ocupar toda a largura da página.
+   O tema Congo limita o artigo a "max-w-prose" (~65 caracteres). */
+article header.max-w-prose,
+article section.prose .max-w-prose,
+article footer.max-w-prose {
+  max-width: 100%;
+}
+
+/* Tabelas sempre na largura total e com rolagem horizontal em telas pequenas */
+article .prose table {
+  width: 100%;
+}
