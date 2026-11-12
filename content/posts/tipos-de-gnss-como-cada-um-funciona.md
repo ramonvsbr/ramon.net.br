@@ -7,8 +7,6 @@ tags:
 draft: false
 ---
 
-# Tipos de GNSS: como cada um funciona
-
 Guia ilustrado, organizado em torno de **três perguntas** que separam os conceitos. Depois delas, cada tecnologia é explicada com seu GIF, do mais simples (celular) ao mais sofisticado.
 
 ## A ideia central
