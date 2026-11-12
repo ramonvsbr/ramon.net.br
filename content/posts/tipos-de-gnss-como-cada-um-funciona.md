@@ -85,6 +85,7 @@ A RBMC **não é uma técnica**, é **infraestrutura**. É uma rede de estaçõe
 
 [Árvore das tecnologias GNSS](<>)
 
+
 ***
 
 # Detalhamento de cada tecnologia
