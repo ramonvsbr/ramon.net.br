@@ -1,6 +1,6 @@
 ---
 title: 'Tipos de GNSS: como cada um funciona'
-date: 2026-11-11T21:59:00
+date: 2026-11-10T21:59:00
 summary: Guia ilustrado, organizado em torno de três perguntas que separam os conceitos. Depois delas, cada tecnologia é explicada com seu GIF, do mais simples (celular) ao mais sofisticado.
 tags:
   - georreferenciamento
